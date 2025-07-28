@@ -36,7 +36,8 @@ cnpj_airflow_pipeline/
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/C-Lemia/Airflow-MongoDB-com-Docker
-   cd cnpj_airflow_pipeline ```
+   cd cnpj_airflow_pipeline
+   ```
 
 
 2. Suba os containers com Docker Compose:
