@@ -1,22 +1,22 @@
-# Ignorar logs e dados temporários
+#--- Ignorar logs e dados temporários
 logs/
 
-# Ignorar arquivos __pycache__ e compilados do Python
+#--- Ignorar arquivos __pycache__ e compilados do Python
 __pycache__/
 *.pyc
 *.pyo
 
-# Ignorar arquivos de sistema
+#--- Ignorar arquivos de sistema
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Ignorar diretórios de IDEs
+#--- Ignorar diretórios de IDEs
 .vscode/
 .idea/
 
-# Ignorar volumes locais do Mongo (caso use bind mount)
+#--- Ignorar volumes locais do Mongo (caso use bind mount)
 mongo-data/
 
-# Ignorar scripts vazios
+#--- Ignorar scripts vazios
 scripts/
