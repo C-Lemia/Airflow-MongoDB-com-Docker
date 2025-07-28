@@ -1,0 +1,123 @@
+{
+  "cnpj": "60444437000146",
+  "razao_social": "LIGHT SERVICOS DE ELETRICIDADE S A",
+  "natureza_juridica": "Sociedade Anônima Aberta",
+  "qualificacao_responsavel": "Presidente",
+  "capital_social": 0.0,
+  "porte": "",
+  "ente_federativo_responsavel": null,
+  "nome_fantasia": null,
+  "situacao_cadastral": "Ativa",
+  "data_situacao_cadastral": "2005-11-03",
+  "motivo_situacao_cadastral": "SEM MOTIVO",
+  "nome_da_cidade_no_exterior": null,
+  "pais": null,
+  "endereco": {
+    "tipo_logradouro": "AVENIDA",
+    "logradouro": "MARECHAL FLORIANO",
+    "numero": "168",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "cep": "20080002",
+    "uf": "RJ",
+    "municipio": "RIO DE JANEIRO"
+  },
+  "data_inicio_atividade": "1966-09-30",
+  "cnae_fiscal_principal": {
+    "codigo": 3514000,
+    "nome": "Distribuição de energia elétrica"
+  },
+  "cnae_fiscal_secundaria": [],
+  "telefone1": "00",
+  "telefone2": "00",
+  "telefone_fax": "00",
+  "email": "",
+  "situacao_especial": null,
+  "data_situacao_especial": null,
+  "socios": [
+    {
+      "tipo": "Pessoa física",
+      "nome": "DEBORAH MEIRELLES ROSA BRASIL",
+      "doc": "***881547**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2020-04-13",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "CARLOS VINICIUS DE SA RORIZ",
+      "doc": "***633447**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2022-10-27",
+      "pais": "",
+      "faixa_etaria": "51 a 60 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "THIAGO FREIRE GUTH",
+      "doc": "***710021**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2020-12-23",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "ALESSANDRA GENU DUTRA AMARAL",
+      "doc": "***825287**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2019-06-06",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "OCTAVIO CORTES PEREIRA LOPES",
+      "doc": "***224538**",
+      "qualificacao": "Presidente",
+      "data_entrada": "2022-08-31",
+      "pais": "",
+      "faixa_etaria": "51 a 60 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "EDUARDO GUARDIANO LEME GOTILLA",
+      "doc": "***697767**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2022-11-18",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    }
+  ]
+}

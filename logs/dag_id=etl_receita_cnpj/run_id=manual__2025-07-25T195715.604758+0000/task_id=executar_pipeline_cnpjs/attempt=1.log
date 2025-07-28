@@ -1,0 +1,26 @@
+[2025-07-25T19:57:18.502+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_receita_cnpj.executar_pipeline_cnpjs manual__2025-07-25T19:57:15.604758+00:00 [queued]>
+[2025-07-25T19:57:18.533+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_receita_cnpj.executar_pipeline_cnpjs manual__2025-07-25T19:57:15.604758+00:00 [queued]>
+[2025-07-25T19:57:18.546+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-07-25T19:57:18.600+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): executar_pipeline_cnpjs> on 2025-07-25 19:57:15.604758+00:00
+[2025-07-25T19:57:18.625+0000] {standard_task_runner.py:60} INFO - Started process 47 to run task
+[2025-07-25T19:57:18.627+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'etl_receita_cnpj', 'executar_pipeline_cnpjs', 'manual__2025-07-25T19:57:15.604758+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/etl_receita_cnpj.py', '--cfg-path', '/tmp/tmpydm2aqwx']
+[2025-07-25T19:57:18.631+0000] {standard_task_runner.py:88} INFO - Job 3: Subtask executar_pipeline_cnpjs
+[2025-07-25T19:57:18.809+0000] {task_command.py:423} INFO - Running <TaskInstance: etl_receita_cnpj.executar_pipeline_cnpjs manual__2025-07-25T19:57:15.604758+00:00 [running]> on host e7e111e48eb7
+[2025-07-25T19:57:19.012+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='etl_receita_cnpj' AIRFLOW_CTX_TASK_ID='executar_pipeline_cnpjs' AIRFLOW_CTX_EXECUTION_DATE='2025-07-25T19:57:15.604758+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-07-25T19:57:15.604758+00:00'
+[2025-07-25T19:57:19.017+0000] {etl_receita_cnpj.py:30} INFO - 🚀 Iniciando pipeline para CNPJ: 27865757000102
+[2025-07-25T19:57:19.704+0000] {logging_mixin.py:188} INFO - ✅ Dados baixados: data/27865757000102.json
+[2025-07-25T19:57:19.732+0000] {etl_receita_cnpj.py:44} INFO - ✅ JSON salvo em: data/27865757000102.json
+[2025-07-25T19:57:19.747+0000] {logging_mixin.py:188} INFO - ✅ CSV gerado: data/27865757000102.csv
+[2025-07-25T19:57:19.983+0000] {logging_mixin.py:188} INFO - ✅ Dados gravados no MongoDB para CNPJ: 27865757000102
+[2025-07-25T19:57:19.984+0000] {etl_receita_cnpj.py:49} INFO - ✅ [27865757000102] - Pipeline finalizado com sucesso.
+[2025-07-25T19:57:19.985+0000] {etl_receita_cnpj.py:30} INFO - 🚀 Iniciando pipeline para CNPJ: 00000000000191
+[2025-07-25T19:57:20.498+0000] {logging_mixin.py:188} INFO - ✅ Dados baixados: data/00000000000191.json
+[2025-07-25T19:57:21.711+0000] {etl_receita_cnpj.py:44} INFO - ✅ JSON salvo em: data/00000000000191.json
+[2025-07-25T19:57:21.876+0000] {logging_mixin.py:188} INFO - ✅ CSV gerado: data/00000000000191.csv
+[2025-07-25T19:57:22.006+0000] {logging_mixin.py:188} INFO - ✅ Dados gravados no MongoDB para CNPJ: 00000000000191
+[2025-07-25T19:57:22.010+0000] {etl_receita_cnpj.py:49} INFO - ✅ [00000000000191] - Pipeline finalizado com sucesso.
+[2025-07-25T19:57:22.012+0000] {etl_receita_cnpj.py:51} INFO - 🏁 Pipeline finalizado para todos os CNPJs.
+[2025-07-25T19:57:22.014+0000] {python.py:201} INFO - Done. Returned value was: Pipeline concluído
+[2025-07-25T19:57:22.069+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=etl_receita_cnpj, task_id=executar_pipeline_cnpjs, execution_date=20250725T195715, start_date=20250725T195718, end_date=20250725T195722
+[2025-07-25T19:57:22.174+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-07-25T19:57:22.217+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,198 @@
+{
+  "cnpj": "33050071023956",
+  "razao_social": "AMPLA ENERGIA E SERVICOS S.A.",
+  "natureza_juridica": "Sociedade Anônima Aberta",
+  "qualificacao_responsavel": "Diretor",
+  "capital_social": 4138230300.0,
+  "porte": "",
+  "ente_federativo_responsavel": null,
+  "nome_fantasia": "ENEL DISTRIBUICAO RIO",
+  "situacao_cadastral": "Ativa",
+  "data_situacao_cadastral": "2018-07-31",
+  "motivo_situacao_cadastral": "SEM MOTIVO",
+  "nome_da_cidade_no_exterior": null,
+  "pais": null,
+  "endereco": {
+    "tipo_logradouro": "RODOVIA",
+    "logradouro": "RJ 152 RODOVIA ABILIO MORGADO",
+    "numero": "KM 10",
+    "complemento": "",
+    "bairro": "EUCLIDELANDIA",
+    "cep": "28520000",
+    "uf": "RJ",
+    "municipio": "CANTAGALO"
+  },
+  "data_inicio_atividade": "2018-07-31",
+  "cnae_fiscal_principal": {
+    "codigo": 3514000,
+    "nome": "Distribuição de energia elétrica"
+  },
+  "cnae_fiscal_secundaria": [
+    {
+      "codigo": 3512300,
+      "nome": "Transmissão de energia elétrica"
+    }
+  ],
+  "telefone1": "2127161620",
+  "telefone2": "00",
+  "telefone_fax": "00",
+  "email": "FISCPRO@ENEL.COM",
+  "situacao_especial": null,
+  "data_situacao_especial": null,
+  "socios": [
+    {
+      "tipo": "Pessoa física",
+      "nome": "JANAINA SAVINO VILELLA CARRO",
+      "doc": "***290577**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2015-05-28",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "MARIO FERNANDO DE MELO SANTOS",
+      "doc": "***541194**",
+      "qualificacao": "Conselheiro de Administração",
+      "data_entrada": "2021-04-15",
+      "pais": "",
+      "faixa_etaria": "80 anos ou mais",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "ANA CLAUDIA GONCALVES REBELLO",
+      "doc": "***914537**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2021-03-11",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "FERNANDO ANDRADE",
+      "doc": "***136046**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2022-05-02",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "JULIA FREITAS DE ALCANTARA NUNES",
+      "doc": "***144867**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2020-05-13",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "GUILHERME GOMES LENCASTRE",
+      "doc": "***340147**",
+      "qualificacao": "Conselheiro de Administração",
+      "data_entrada": "2021-04-15",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "LUIZ FLAVIO XAVIER DE SA",
+      "doc": "***355778**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2022-02-09",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "ANNA PAULA HIOTTE PACHECO",
+      "doc": "***007817**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2018-12-14",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "ALAIN ROSOLINO",
+      "doc": "***642077**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2020-11-03",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "JOSE NUNES DE ALMEIDA NETO",
+      "doc": "***258723**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2015-12-28",
+      "pais": "",
+      "faixa_etaria": "61 a 70 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    },
+    {
+      "tipo": "Pessoa física",
+      "nome": "MIHAI CONSTANTIN PESTE",
+      "doc": "***110421**",
+      "qualificacao": "Diretor",
+      "data_entrada": "2022-05-02",
+      "pais": "",
+      "faixa_etaria": "41 a 50 anos",
+      "representante_legal": {
+        "nome": "",
+        "doc": "***000000**",
+        "qualificacao": "Não informada"
+      }
+    }
+  ]
+}
