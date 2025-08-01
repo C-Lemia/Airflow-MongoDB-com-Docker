@@ -31,10 +31,9 @@ def consultar_e_salvar():
         # --- Forçar formato de CNPJ como string
         dados["cnpj"] = str(dados["cnpj"]).zfill(14)
 
-        # --- Criar pasta se necessário
         os.makedirs("data", exist_ok=True)
 
-        # --- Salvar JSON bruto
+        # --- Salvar JSON 
         with open(f"data/{cnpj}.json", "w", encoding="utf-8") as f:
             json.dump(dados, f, ensure_ascii=False, indent=2)
 
@@ -49,7 +48,6 @@ def consultar_e_salvar():
         except Exception as e:
             print(f"Erro no MongoDB: {e}")
 
-        # --- Criar CSVs
         # --- csv geral
         dados_geral = {k: v for k, v in dados.items() if k not in [
             "socios", "estabelecimento"]}
@@ -71,7 +69,7 @@ def consultar_e_salvar():
                 writer.writeheader()
                 writer.writerows(socios)
 
-        # csv de CNAE secundários
+        # csv de CNAE 
         cnaes = dados.get("estabelecimento", {}).get("cnaes_secundarios", [])
         if cnaes:
             with open(f"data/{cnpj}_cnaes.csv", "w", newline='', encoding='utf-8') as f:
