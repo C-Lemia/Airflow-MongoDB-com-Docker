@@ -1,12 +1,8 @@
-tipo,nome,doc,qualificacao,data_entrada,pais,faixa_etaria,representante_legal
-Pessoa física,JANAINA SAVINO VILELLA CARRO,***290577**,Diretor,2015-05-28,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,MARIO FERNANDO DE MELO SANTOS,***541194**,Conselheiro de Administração,2021-04-15,,80 anos ou mais,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,ANA CLAUDIA GONCALVES REBELLO,***914537**,Diretor,2021-03-11,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,FERNANDO ANDRADE,***136046**,Diretor,2022-05-02,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,JULIA FREITAS DE ALCANTARA NUNES,***144867**,Diretor,2020-05-13,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,GUILHERME GOMES LENCASTRE,***340147**,Conselheiro de Administração,2021-04-15,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,LUIZ FLAVIO XAVIER DE SA,***355778**,Diretor,2022-02-09,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,ANNA PAULA HIOTTE PACHECO,***007817**,Diretor,2018-12-14,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,ALAIN ROSOLINO,***642077**,Diretor,2020-11-03,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,JOSE NUNES DE ALMEIDA NETO,***258723**,Diretor,2015-12-28,,61 a 70 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,MIHAI CONSTANTIN PESTE,***110421**,Diretor,2022-05-02,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
+﻿pais,nome_socio,codigo_pais,faixa_etaria,cnpj_cpf_do_socio,qualificacao_socio,codigo_faixa_etaria,data_entrada_sociedade,identificador_de_socio,cpf_representante_legal,nome_representante_legal,codigo_qualificacao_socio,qualificacao_representante_legal,codigo_qualificacao_representante_legal
+,ALAIN ROSOLINO,,Entre 41 a 50 anos,***642077**,Diretor,5,2020-11-03,2,***000000**,,10,Não informada,0
+,ANA CLAUDIA GONCALVES REBELLO,,Entre 51 a 60 anos,***914537**,Diretor,6,2021-03-11,2,***000000**,,10,Não informada,0
+,ANNA PAULA HIOTTE PACHECO,,Entre 41 a 50 anos,***007817**,Diretor,5,2018-12-14,2,***000000**,,10,Não informada,0
+,FRANCESCO MOLITERNI,,Entre 51 a 60 anos,***747317**,Presidente,6,2024-11-21,2,***000000**,,16,Não informada,0
+,JOSE LUIS SALAS RINCON,,Entre 51 a 60 anos,***750688**,Diretor,6,2023-03-14,2,***000000**,,10,Não informada,0
+,LUIZ FLAVIO XAVIER DE SA,,Entre 41 a 50 anos,***355778**,Diretor,5,2022-02-09,2,***000000**,,10,Não informada,0
+,MICHELLE RODRIGUES NOGUEIRA,,Entre 41 a 50 anos,***485857**,Diretor,5,2025-05-09,2,***000000**,,10,Não informada,0

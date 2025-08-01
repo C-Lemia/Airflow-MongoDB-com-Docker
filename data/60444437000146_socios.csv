@@ -1,7 +1,7 @@
-tipo,nome,doc,qualificacao,data_entrada,pais,faixa_etaria,representante_legal
-Pessoa física,DEBORAH MEIRELLES ROSA BRASIL,***881547**,Diretor,2020-04-13,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,CARLOS VINICIUS DE SA RORIZ,***633447**,Diretor,2022-10-27,,51 a 60 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,THIAGO FREIRE GUTH,***710021**,Diretor,2020-12-23,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,ALESSANDRA GENU DUTRA AMARAL,***825287**,Diretor,2019-06-06,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,OCTAVIO CORTES PEREIRA LOPES,***224538**,Presidente,2022-08-31,,51 a 60 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
-Pessoa física,EDUARDO GUARDIANO LEME GOTILLA,***697767**,Diretor,2022-11-18,,41 a 50 anos,"{'nome': '', 'doc': '***000000**', 'qualificacao': 'Não informada'}"
+﻿pais,nome_socio,codigo_pais,faixa_etaria,cnpj_cpf_do_socio,qualificacao_socio,codigo_faixa_etaria,data_entrada_sociedade,identificador_de_socio,cpf_representante_legal,nome_representante_legal,codigo_qualificacao_socio,qualificacao_representante_legal,codigo_qualificacao_representante_legal
+,ALEXANDRE NOGUEIRA FERREIRA,,Entre 41 a 50 anos,***042606**,Conselheiro de Administração,5,2024-03-06,2,***000000**,,8,Não informada,0
+,CARLOS VINICIUS DE SA RORIZ,,Entre 51 a 60 anos,***633447**,Diretor,6,2022-10-27,2,***000000**,,10,Não informada,0
+,EDUARDO XAVIER RODRIGUES,,Entre 61 a 70 anos,***193197**,Conselheiro de Administração,7,2023-04-11,2,***000000**,,8,Não informada,0
+,RENATA YAMADA BURKLE,,Entre 41 a 50 anos,***618417**,Conselheiro de Administração,5,2024-05-13,2,***000000**,,8,Não informada,0
+,RODRIGO RIBEIRO PEREIRA BRANDAO,,Entre 41 a 50 anos,***388238**,Presidente,5,2023-07-25,2,***000000**,,16,Não informada,0
+,RODRIGO TOSTES SOLON DE PONTES,,Entre 41 a 50 anos,***634807**,Diretor,5,2024-02-16,2,***000000**,,10,Não informada,0
